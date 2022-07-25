@@ -1,3 +1,8 @@
+!!! ATTENTION !!!
+YOU NEED TO DOWNLOAD THIS FILE TO READ IT, GITHUB REMOVES SOME ELEMENTS
+
+
+
 Functions are defined with < FUNCTION >
 The main functions are: <prt> <stm> <inp> <var> <con> <cmt>
 Everything else will be ignored
