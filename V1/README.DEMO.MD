@@ -1,5 +1,3 @@
-Other files including build and interpret.spec are just the extra stuff when converting to .exe
-
 The main functions are: <prt> <stm> <inp> <var> <con> <cmt>
 Everything else will be ignored
 To run the interpreter, open the command prompt, type "interpret.exe -h"
