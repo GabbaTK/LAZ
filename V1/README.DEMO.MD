@@ -1,3 +1,4 @@
+Functions are defined with < FUNCTION >
 The main functions are: <prt> <stm> <inp> <var> <con> <cmt>
 Everything else will be ignored
 To run the interpreter, open the command prompt, type "interpret.exe -h"
