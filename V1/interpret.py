@@ -27,7 +27,7 @@ try:
     OPTIONAL EXPLANATION
 
     O: The only argument
-    N: Not optional (REQUIRED)
+    N: Required
     Y: Optional
         ''')
         input("<<<END>>>")
