@@ -25,6 +25,18 @@ Details, this gets ignored in the build, but <cmt> doesnt
 . <cnd> is an if statement
 . <end> ends the if statement
 
+Operator description:
+. <eql> ==
+. <grt> >
+. <lst> <
+. <gte> >=
+. <lte> <=
+. <neq> !=
+. <add> +
+. <sub> -
+. <div> /
+. <mul> *
+
 This will be an example of all the commands currently:
 
 !!!ATTENTION!!!
