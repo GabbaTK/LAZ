@@ -69,4 +69,4 @@ Open the command prompt
 Type: .\dist\interpreter.exe -f README.DEMO.MD
 
 Now, if you want to see the diffrence between normal text like this and <cmt>
-Open README.DEMO.MD.CPLD
+Open README.DEMO.MD.CPLD ( you need to set the compile function to "cr" to see the .cpld file)
